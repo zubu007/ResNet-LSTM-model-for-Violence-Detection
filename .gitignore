@@ -1,0 +1,13 @@
+/Dataframes
+/hockey_data_for_raw_model_nonviolent.npy
+/hockey_data_for_raw_model_violent.npy
+/movie_data_for_raw_model_nonviolent.npy
+/movie_data_for_raw_model_violent.npy
+/raw
+/resnet_feature.npy
+/resnet_LSTM_model.h5
+/resnet_LSTM_weights.h5
+/resnet__hockey_feature_nonviolent.npy
+/resnet__hockey_feature_violent.npy
+/resnet__movie_feature.npy
+/Test_frames
